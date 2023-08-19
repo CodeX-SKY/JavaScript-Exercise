@@ -68,11 +68,11 @@ img{
     align-items: end;
     margin-bottom: 25px;
     overflow: hidden;
-    animation: bxa 1s linear forwards;
+    animation: bxa 0.5s linear forwards;
 }
 .content-br {
     border: 3px solid var(---cl2);
-    animation: bxcn 1s linear forwards;
+    animation: bxcn 0.5s linear forwards;
 }
 .tag {
     font-size: 16px;
